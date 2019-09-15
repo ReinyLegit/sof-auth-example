@@ -1,3 +1,3 @@
 library(shiny)
-library(shinyjs)
-library(DT)
+library(shinydashboard)
+library(tidyverse)
